@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+<<<<<<< HEAD feature1
 # laravel-practice
 Laravel Advanc Topics Practice
 =======
